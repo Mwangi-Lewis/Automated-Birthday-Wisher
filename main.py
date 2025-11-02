@@ -37,8 +37,8 @@ def check_birthday(birthdays):
 # name from birthdays.csv
 
 # 4. Send the letter generated in step 3 to that person's email address.
-my_email = "smwangilewis@gmail.com"
-password = "aebi wdxy jmsr xzza"
+my_email = "Your email address"
+password = "Your email password"
 
 # Check if today is someone's birthday
 birthday_person = check_birthday(read_csv())
